@@ -1,0 +1,893 @@
+{
+    "1": {
+        "id": 1, 
+        "ques": "齿少气()", 
+        "option1": "锐", 
+        "option2": "瑞", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "2": {
+        "id": 2, 
+        "ques": "入()三分", 
+        "option1": "木", 
+        "option2": "目", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "3": {
+        "id": 3, 
+        "ques": "()照不宣", 
+        "option1": "幸", 
+        "option2": "心", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "4": {
+        "id": 4, 
+        "ques": "()()逼人", 
+        "option1": "哆哆", 
+        "option2": "咄咄", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "5": {
+        "id": 5, 
+        "ques": "不落()臼", 
+        "option1": "窠", 
+        "option2": "巢", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "6": {
+        "id": 6, 
+        "ques": "()遏行云", 
+        "option1": "饷", 
+        "option2": "响", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "7": {
+        "id": 7, 
+        "ques": "杜门()扫", 
+        "option1": "却", 
+        "option2": "确", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "8": {
+        "id": 8, 
+        "ques": "主观()断", 
+        "option1": "臆", 
+        "option2": "意", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "9": {
+        "id": 9, 
+        "ques": "()沐弹冠", 
+        "option1": "欣", 
+        "option2": "新", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "10": {
+        "id": 10, 
+        "ques": "()盖如云", 
+        "option1": "冠", 
+        "option2": "惯", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "11": {
+        "id": 11, 
+        "ques": "余音绕()", 
+        "option1": "绕", 
+        "option2": "梁", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "12": {
+        "id": 12, 
+        "ques": "青出于()", 
+        "option1": "蓝", 
+        "option2": "兰", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "13": {
+        "id": 13, 
+        "ques": "()竹难书", 
+        "option1": "罄", 
+        "option2": "磬", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "14": {
+        "id": 14, 
+        "ques": "人才()", 
+        "option1": "挤挤", 
+        "option2": "济济", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "15": {
+        "id": 15, 
+        "ques": "如愿以() ", 
+        "option1": "偿", 
+        "option2": "尝", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "16": {
+        "id": 16, 
+        "ques": "弱不()风", 
+        "option1": "经", 
+        "option2": "禁", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "17": {
+        "id": 17, 
+        "ques": "色彩斑()", 
+        "option1": "烂", 
+        "option2": "斓", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "18": {
+        "id": 18, 
+        "ques": "山()水秀", 
+        "option1": "清", 
+        "option2": "青", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "19": {
+        "id": 19, 
+        "ques": "()安勿躁", 
+        "option1": "稍", 
+        "option2": "少", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "20": {
+        "id": 20, 
+        "ques": "水乳交", 
+        "option1": "融", 
+        "option2": "溶", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "21": {
+        "id": 21, 
+        "ques": "所向披()", 
+        "option1": "糜", 
+        "option2": "靡", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "22": {
+        "id": 22, 
+        "ques": "危如垒()", 
+        "option1": "累", 
+        "option2": "卵", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "23": {
+        "id": 23, 
+        "ques": "委()求全", 
+        "option1": "曲", 
+        "option2": "屈", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "24": {
+        "id": 24, 
+        "ques": "相形见()", 
+        "option1": "拙", 
+        "option2": "绌", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "25": {
+        "id": 25, 
+        "ques": "心无旁() ", 
+        "option1": "鹜", 
+        "option2": "骛", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "26": {
+        "id": 26, 
+        "ques": "心心相()", 
+        "option1": "印", 
+        "option2": "映", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "27": {
+        "id": 27, 
+        "ques": "()学子", 
+        "option1": "莘莘", 
+        "option2": "辛辛", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "28": {
+        "id": 28, 
+        "ques": "虚()以待", 
+        "option1": "左", 
+        "option2": "座", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "29": {
+        "id": 29, 
+        "ques": "()赫一时", 
+        "option1": "烜", 
+        "option2": "炫", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "30": {
+        "id": 30, 
+        "ques": "()没无闻", 
+        "option1": "湮", 
+        "option2": "淹", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "31": {
+        "id": 31, 
+        "ques": "()一息", 
+        "option1": "奄奄", 
+        "option2": "淹淹", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "32": {
+        "id": 32, 
+        "ques": "()旗息鼓 ", 
+        "option1": "偃", 
+        "option2": "掩", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "33": {
+        "id": 33, 
+        "ques": "摇摇欲()", 
+        "option1": "堕", 
+        "option2": "坠", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "34": {
+        "id": 34, 
+        "ques": "()笑大方", 
+        "option1": "贻", 
+        "option2": "遗", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "35": {
+        "id": 35, 
+        "ques": "()老卖老", 
+        "option1": "以", 
+        "option2": "倚", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "36": {
+        "id": 36, 
+        "ques": "饮()止渴", 
+        "option1": "鸠", 
+        "option2": "鸩", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "37": {
+        "id": 37, 
+        "ques": "()流长", 
+        "option1": "渊源", 
+        "option2": "源远", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "38": {
+        "id": 38, 
+        "ques": "越桌()庖", 
+        "option1": "代", 
+        "option2": "俎", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "39": {
+        "id": 39, 
+        "ques": "()哉游哉", 
+        "option1": "优", 
+        "option2": "悠", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "40": {
+        "id": 40, 
+        "ques": "()柔寡断", 
+        "option1": "优", 
+        "option2": "忧", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "41": {
+        "id": 41, 
+        "ques": "再接再()", 
+        "option1": "厉", 
+        "option2": "励", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "42": {
+        "id": 42, 
+        "ques": "责无旁()", 
+        "option1": "贷", 
+        "option2": "代", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "43": {
+        "id": 43, 
+        "ques": "仗义()言", 
+        "option1": "执", 
+        "option2": "直", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "44": {
+        "id": 44, 
+        "ques": "真知()见", 
+        "option1": "灼", 
+        "option2": "卓", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "45": {
+        "id": 45, 
+        "ques": "()然失色", 
+        "option1": "黯", 
+        "option2": "暗", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "46": {
+        "id": 46, 
+        "ques": "按()就班", 
+        "option1": "步", 
+        "option2": "部", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "47": {
+        "id": 47, 
+        "ques": "()兵不动", 
+        "option1": "按", 
+        "option2": "安", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "48": {
+        "id": 48, 
+        "ques": "暴()天物", 
+        "option1": "珍", 
+        "option2": "殄", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "49": {
+        "id": 49, 
+        "ques": "别出()裁 ", 
+        "option1": "新", 
+        "option2": "心", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "50": {
+        "id": 50, 
+        "ques": "()路蓝缕", 
+        "option1": "筚", 
+        "option2": "毕", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "51": {
+        "id": 51, 
+        "ques": "变本加()", 
+        "option1": "利", 
+        "option2": "厉", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "52": {
+        "id": 52, 
+        "ques": "不可()状", 
+        "option1": "名", 
+        "option2": "明", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "53": {
+        "id": 53, 
+        "ques": "不()思索", 
+        "option1": "加", 
+        "option2": "假", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "54": {
+        "id": 54, 
+        "ques": "不()之地", 
+        "option1": "毛", 
+        "option2": "茅", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "55": {
+        "id": 55, 
+        "ques": "不()而走", 
+        "option1": "径", 
+        "option2": "胫", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "56": {
+        "id": 56, 
+        "ques": "()海桑田", 
+        "option1": "沧", 
+        "option2": "苍", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "57": {
+        "id": 57, 
+        "ques": "重蹈()辙", 
+        "option1": "复", 
+        "option2": "覆", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "58": {
+        "id": 58, 
+        "ques": "出奇()胜", 
+        "option1": "致", 
+        "option2": "制", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "59": {
+        "id": 59, 
+        "ques": "()流不息", 
+        "option1": "川", 
+        "option2": "穿", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "60": {
+        "id": 60, 
+        "ques": "发()图强", 
+        "option1": "愤", 
+        "option2": "奋", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "61": {
+        "id": 61, 
+        "ques": "飞扬()扈 ", 
+        "option1": "拔", 
+        "option2": "跋", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "62": {
+        "id": 62, 
+        "ques": "分道扬()", 
+        "option1": "镳", 
+        "option2": "镖", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "63": {
+        "id": 63, 
+        "ques": "纷至()来", 
+        "option1": "踏", 
+        "option2": "沓", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "64": {
+        "id": 64, 
+        "ques": "甘之如()", 
+        "option1": "怡", 
+        "option2": "饴", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "65": {
+        "id": 65, 
+        "ques": "各行其()", 
+        "option1": "事", 
+        "option2": "是", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "66": {
+        "id": 66, 
+        "ques": "攻城()地", 
+        "option1": "略", 
+        "option2": "掠", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "67": {
+        "id": 67, 
+        "ques": "()步自封", 
+        "option1": "固", 
+        "option2": "故", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "68": {
+        "id": 68, 
+        "ques": "骨()在喉", 
+        "option1": "鲠", 
+        "option2": "梗", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "69": {
+        "id": 69, 
+        "ques": "()惑人心", 
+        "option1": "鼓", 
+        "option2": "蛊", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "70": {
+        "id": 70, 
+        "ques": "鬼()伎俩", 
+        "option1": "蜮", 
+        "option2": "域", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "71": {
+        "id": 71, 
+        "ques": "汗流()背", 
+        "option1": "夹", 
+        "option2": "浃", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "72": {
+        "id": 72, 
+        "ques": "好高()远", 
+        "option1": "骛", 
+        "option2": "鹜", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "73": {
+        "id": 73, 
+        "ques": "和()可亲", 
+        "option1": "蔼", 
+        "option2": "霭", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "74": {
+        "id": 74, 
+        "ques": "怙恶不()", 
+        "option1": "悛", 
+        "option2": "俊", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "75": {
+        "id": 75, 
+        "ques": "()巨著", 
+        "option1": "煌煌", 
+        "option2": "皇皇", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "76": {
+        "id": 76, 
+        "ques": "既往不()", 
+        "option1": "究", 
+        "option2": "咎", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "77": {
+        "id": 77, 
+        "ques": "()可危", 
+        "option1": "岌岌", 
+        "option2": "及及", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "78": {
+        "id": 78, 
+        "ques": "竭泽而()", 
+        "option1": "渔", 
+        "option2": "鱼", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "79": {
+        "id": 79, 
+        "ques": "()若寒蝉", 
+        "option1": "禁", 
+        "option2": "噤", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "80": {
+        "id": 80, 
+        "ques": "金()辉煌", 
+        "option1": "璧", 
+        "option2": "碧", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "81": {
+        "id": 81, 
+        "ques": "精兵()政", 
+        "option1": "减", 
+        "option2": "简", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "82": {
+        "id": 82, 
+        "ques": "苦心孤()", 
+        "option1": "旨", 
+        "option2": "诣", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "83": {
+        "id": 83, 
+        "ques": "()人口 ", 
+        "option1": "脍炙", 
+        "option2": "烩灸", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "84": {
+        "id": 84, 
+        "ques": "老奸巨()", 
+        "option1": "猾", 
+        "option2": "滑", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "85": {
+        "id": 85, 
+        "ques": "()精图治", 
+        "option1": "厉", 
+        "option2": "励", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "86": {
+        "id": 86, 
+        "ques": "礼()往来", 
+        "option1": "尚", 
+        "option2": "上", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "87": {
+        "id": 87, 
+        "ques": "鳞次()比", 
+        "option1": "栉", 
+        "option2": "节", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "88": {
+        "id": 88, 
+        "ques": "伶牙()齿", 
+        "option1": "利", 
+        "option2": "俐", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "89": {
+        "id": 89, 
+        "ques": "流言()语", 
+        "option1": "非", 
+        "option2": "蜚", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "90": {
+        "id": 90, 
+        "ques": "()芳百世 ", 
+        "option1": "流", 
+        "option2": "留", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "91": {
+        "id": 91, 
+        "ques": "毛骨()然", 
+        "option1": "耸", 
+        "option2": "悚", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "92": {
+        "id": 92, 
+        "ques": "美()美奂", 
+        "option1": "轮", 
+        "option2": "仑", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "93": {
+        "id": 93, 
+        "ques": "()天大谎", 
+        "option1": "弥", 
+        "option2": "迷", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "94": {
+        "id": 94, 
+        "ques": "()之音", 
+        "option1": "靡靡", 
+        "option2": "糜糜", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "95": {
+        "id": 95, 
+        "ques": "()里藏针", 
+        "option1": "绵", 
+        "option2": "棉", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "96": {
+        "id": 96, 
+        "ques": "明火执()", 
+        "option1": "仗", 
+        "option2": "杖", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }, 
+    "97": {
+        "id": 97, 
+        "ques": "墨守()规", 
+        "option1": "陈", 
+        "option2": "成", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "98": {
+        "id": 98, 
+        "ques": "()心沥血", 
+        "option1": "沤", 
+        "option2": "呕", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 2
+    }, 
+    "99": {
+        "id": 99, 
+        "ques": "旁()博引", 
+        "option1": "征", 
+        "option2": "证", 
+        "option3": 0, 
+        "option4": 0, 
+        "answer": 1
+    }
+}
